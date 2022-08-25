@@ -1,7 +1,7 @@
 ---
 SpaceBunny: Welcome to my SpaceBun Blog UwU
 ---
-# Hello there welcome! 
+# Welcome!
 ## Stay for a minute or a while
 ### Make yourself at home!
 
